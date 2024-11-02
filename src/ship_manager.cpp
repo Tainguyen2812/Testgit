@@ -36,7 +36,9 @@ char getting_selection() {
 ***************************************************************/
 
 
+void Intra_provincial_routes_except_Hanoi_and_Ho_Chi_Minh(int weight, int address, int default_weight, const int mass, double inner_city_prices,double district_price,double price_per_05,double change_amount,double change_kg,double total_cost){
 
+}
 
 
 
