@@ -10,6 +10,7 @@ include_directories(GiaoHangNhanh_ShippingPriceList/include)  # Use relative pat
 set(SOURCE_FILES
         GiaoHangNhanh_ShippingPriceList/src/main.cpp
         GiaoHangNhanh_ShippingPriceList/src/ship_manager.cpp
+        src/ronadl.cpp
 )
 
 

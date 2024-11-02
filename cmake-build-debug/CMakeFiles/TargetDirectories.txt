@@ -1,3 +1,0 @@
-/home/tainguyen/Documents/ProjectforLearn/Individual Project C++/GiaoHangNhanh_ShippingPriceList/cmake-build-debug/CMakeFiles/GiaoHangNhanh_ShippingPriceList.dir
-/home/tainguyen/Documents/ProjectforLearn/Individual Project C++/GiaoHangNhanh_ShippingPriceList/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/tainguyen/Documents/ProjectforLearn/Individual Project C++/GiaoHangNhanh_ShippingPriceList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
