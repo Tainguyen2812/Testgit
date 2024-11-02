@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/GiaoHangNhanh_ShippingPriceList.dir/src/main.cpp.o CMakeFiles/GiaoHangNhanh_ShippingPriceList.dir/src/ship_manager.cpp.o -o GiaoHangNhanh_ShippingPriceList
